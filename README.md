@@ -14,14 +14,18 @@ Normalization: Scale pixel values to a range of 0 to 1.
 Reshaping: Format data to fit the neural network’s input requirements.
 Model Architecture:
 Neural Network: Build a neural network with TensorFlow and Keras, featuring convolutional layers for extracting image features and dense layers for classification.
+
 Training:
 Loss Function: Use cross-entropy loss for multi-class classification.
 Optimizer: Apply Adam or similar optimizer to improve model performance.
 Evaluation:
 Accuracy: Assess the model’s performance on the test set to gauge classification accuracy.
+
 Libraries Used
 TensorFlow, Keras: For building and training the neural network.
+
 Numpy, Pandas: For data manipulation.
+
 Matplotlib: For visualizing training results.
 Usage
 
